@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global dark theme overrides for cards and content */
+.dark .bg-white {
+  background-color: rgb(30 41 59);
+}
+.dark .border-gray-200 {
+  border-color: rgb(51 65 85);
+}
+.dark .bg-gray-50 {
+  background-color: rgb(15 23 42);
+}
+.dark .text-gray-900 {
+  color: rgb(248 250 252);
+}
+.dark .text-gray-800 {
+  color: rgb(226 232 240);
+}
+.dark .text-gray-700 {
+  color: rgb(203 213 225);
+}
+.dark .text-gray-600 {
+  color: rgb(203 213 225);
+}
+.dark .text-gray-500 {
+  color: rgb(148 163 184);
+}
+.dark .text-gray-400 {
+  color: rgb(148 163 184);
+}
+.dark input::placeholder,
+.dark .placeholder-gray-500 {
+  color: rgb(148 163 184);
+}
+.dark .divide-gray-200 > * {
+  border-color: rgb(51 65 85);
+}
+.dark .divide-gray-100 > * {
+  border-color: rgb(51 65 85);
+}
+.dark .bg-green-50 { background-color: rgb(6 78 59 / 0.3); }
+.dark .bg-red-50 { background-color: rgb(127 29 29 / 0.3); }
+.dark .bg-blue-50 { background-color: rgb(30 58 138 / 0.3); }
+.dark .bg-amber-50 { background-color: rgb(120 53 15 / 0.3); }
+.dark .bg-gray-100 { background-color: rgb(51 65 85); }
+.dark .hover\:bg-gray-50:hover { background-color: rgb(30 41 59); }
+.dark .hover\:bg-gray-100:hover { background-color: rgb(51 65 85); }
