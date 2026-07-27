@@ -1,4 +1,4 @@
-Here is a clean, polished, and professional version of your README. I removed the garbled character encoding artifacts, fixed typos, and organized the sections into a sleek, easy-to-read layout.
+.
 
 healIQ — Patient Experience Analytics Dashboard
 Beyond the Survey.
