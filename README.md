@@ -1,5 +1,3 @@
-.
-
 healIQ — Patient Experience Analytics Dashboard
 Beyond the Survey.
 
